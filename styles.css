@@ -178,58 +178,14 @@ button.secondary:hover {
 
 /* Large screens (desktops) */
 @media (min-width: 1024px) {
-    .plan {
-        width: 300px;
-    }
+   
 }
 
 /* Medium screens (tablets) */
 @media (max-width: 768px) {
-    header {
-        padding: 15px;
-        font-size: 1.2em; 
-    }
-
-    footer {
-        padding: 8px;
-        font-size: 1em;
-    }
-
-    .headerTop a {
-        font-size: 24px; /* Adjust font size for medium screens */
-    }
+ 
 }
 /* Small screens (phones) */
 @media (max-width: 480px) {
-    .plan {
-        width: 100%;
-    }
-
-    header {
-        font-size: 1.5em; 
-    }
-
-    footer {
-        font-size: 0.9em; 
-    }
-
-    .headerTop a {
-        font-size: 20px; /* Adjust font size for small screens */
-    }
-
-    h2 {
-        font-size: 1.3em;
-    }
-
-    .price {
-        font-size: 1em;
-    }
-
-    ul li {
-        font-size: 0.8em;
-    }
-
-    button {
-        width: 100%;
-    }
+    
 }
